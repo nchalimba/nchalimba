@@ -25,7 +25,7 @@ I'm Nico Chalimba, a passionate Full Stack Software Engineer located in Munich, 
 
 [![Firebase Badge](https://img.shields.io/badge/-Firebase-FFCB2B?style=for-the-badge&labelColor=black&logo=firebase&logoColor=FFCB2B)](#)
 [![Python Badge](https://img.shields.io/badge/-Python-306998?style=for-the-badge&labelColor=black&logo=python&logoColor=306998)](#)
-[![Flask Badge](https://img.shields.io/badge/-Flask-white?style=for-the-badge&labelColor=black&logo=flask&logoColor=white)](#)
+[![Flask Badge](https://img.shields.io/badge/-Flask-lightgray?style=for-the-badge&labelColor=black&logo=flask&logoColor=white)](#)
 [![MySQL Badge](https://img.shields.io/badge/-MySQL-00758F?style=for-the-badge&labelColor=black&logo=mysql&logoColor=00758F)](#)
 [![MongoDB Badge](https://img.shields.io/badge/-MongoDB-4DB33D?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=4DB33D)](#)
 [![Terraform Badge](https://img.shields.io/badge/-Terraform-7B42BC?style=for-the-badge&labelColor=black&logo=terraform&logoColor=7B42BC)](#)
