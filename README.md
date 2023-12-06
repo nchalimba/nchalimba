@@ -15,7 +15,7 @@ I'm Nico Abubeker, a passionate Full Stack Software Engineer located in Munich, 
 [![Java Badge](https://img.shields.io/badge/-Java-f89820?style=for-the-badge&labelColor=black&logo=java&logoColor=f89820)](#)
 [![Spring Boot Badge](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&labelColor=black&logo=springboot&logoColor=6DB33F)](#)
 [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
-[![GCP Badge](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+[![GCP Badge](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)](#)
 <br />
 <br />
 
