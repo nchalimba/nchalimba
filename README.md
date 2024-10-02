@@ -4,7 +4,7 @@ I'm Nico Abubeker, a passionate Full Stack Software Engineer located in Munich, 
 
 :mailbox: Feel free to contact me!
 
-[![Mail Badge](https://img.shields.io/badge/-Portfolio-blueviolet?style=flat&labelColor=blueviolet&logo=googlechrome&logoColor=white)](https://nico.chalimba.de) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nico-feliciano-chalimba-a658681a3) [![Mail Badge](https://img.shields.io/badge/-Xing-026466?style=flat&labelColor=026466&logo=xing&logoColor=white)](https://www.xing.com/profile/NicoFeliciano_Chalimba/cv) [![Mail Badge](https://img.shields.io/badge/-Email-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:nico.chalimba@gmail.com)
+[![Mail Badge](https://img.shields.io/badge/-Portfolio-blueviolet?style=flat&labelColor=blueviolet&logo=googlechrome&logoColor=white)](https://nico.abubeker.de) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nico-f-abubeker-a658681a3/) [![Mail Badge](https://img.shields.io/badge/-Xing-026466?style=flat&labelColor=026466&logo=xing&logoColor=white)](https://www.xing.com/profile/NicoFeliciano_Chalimba/cv) [![Mail Badge](https://img.shields.io/badge/-Email-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:nico.abubeker@gmail.com)
 <br />
 <br />
 
